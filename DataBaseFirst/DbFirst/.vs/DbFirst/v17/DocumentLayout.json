@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\databasefirst\\dbfirst\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\databasefirst\\dbfirst\\webapplication1\\controller\\cursoefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controller\\cursoefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\databasefirst\\dbfirst\\webapplication1\\models\\cursoefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cursoefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\databasefirst\\dbfirst\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\databasefirst\\dbfirst\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37CB44DF-C947-4525-958D-0432A2320612}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursoEFController.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Controller\\CursoEFController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controller\\CursoEFController.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Controller\\CursoEFController.cs",
+              "RelativeToolTip": "WebApplication1\\Controller\\CursoEFController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:46:41.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoEfContext.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Models\\CursoEfContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CursoEfContext.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Models\\CursoEfContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CursoEfContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:40:06.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T22:07:21.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:01:45.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T21:59:34.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

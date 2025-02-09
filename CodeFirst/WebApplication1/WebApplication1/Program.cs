@@ -8,10 +8,12 @@ builder.Services.AddRazorPages();
 builder.Services.AddDbContext<CursoEfContext>(optionsAction: 
     options=> options.UseSqlServer(builder.Configuration.GetConnectionString("connectionDB")));
 var app = builder.Build();
+
 using (var scope = app.Services.CreateScope())
 {
     CursoEfContext context = scope.ServiceProvider.GetRequiredService<CursoEfContext>();    
-    context.Database.EnsureCreated();
+    //context.Database.EnsureCreated();
+    context.Database.Migrate();
 }
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

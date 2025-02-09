@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Controller\\CursoEFController.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Controller\\CursoEFController.cs",
               "RelativeToolTip": "WebApplication1\\Controller\\CursoEFController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T22:46:41.698Z",
               "EditorCaption": ""
@@ -65,15 +65,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WebApplication1",
+              "Title": "WebApplication1.csproj",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-07T22:07:21.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T22:07:21.465Z"
             },
             {
               "$type": "Document",
@@ -83,7 +82,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T22:01:45.783Z",
               "EditorCaption": ""
@@ -98,8 +97,7 @@
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-07T21:59:34.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T21:59:34.236Z"
             }
           ]
         }

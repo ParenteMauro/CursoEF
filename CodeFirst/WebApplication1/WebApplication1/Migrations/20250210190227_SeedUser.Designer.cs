@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApplication1.Data;
 
@@ -11,9 +12,11 @@ using WebApplication1.Data;
 namespace WebApplication1.Migrations
 {
     [DbContext(typeof(CursoEfContext))]
-    partial class CursoEfContextModelSnapshot : ModelSnapshot
+    [Migration("20250210190227_SeedUser")]
+    partial class SeedUser
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -47,22 +50,6 @@ namespace WebApplication1.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("users");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Email = "user1@gmail.com",
-                            Password = "123",
-                            UserName = "user1"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Email = "user2@gmail.com",
-                            Password = "123",
-                            UserName = "user2"
-                        });
                 });
 
             modelBuilder.Entity("WebApplication1.Data.Entities.WorkingExperience", b =>

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WebApplication1.psty8vjwab.bundle.scp.css"
+      "Id": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CodeFirst.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CodeFirst.7ewqd74y0m.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
@@ -245,24 +245,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CodeFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CodeFirst.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
-      "PackagePath": "build\\WebApplication1.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CodeFirst.props",
+      "PackagePath": "build\\CodeFirst.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
-      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CodeFirst.props",
+      "PackagePath": "buildMultiTargeting\\CodeFirst.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
-      "PackagePath": "buildTransitive\\WebApplication1.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CodeFirst.props",
+      "PackagePath": "buildTransitive\\CodeFirst.props"
     }
   ],
   "ElementsToRemove": []

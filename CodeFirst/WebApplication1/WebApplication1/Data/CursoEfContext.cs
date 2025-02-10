@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CodeFirst.Data.Seeds;
+using Microsoft.EntityFrameworkCore;
 using WebApplication1.Data.Entities;
 
 namespace WebApplication1.Data
@@ -11,5 +12,9 @@ namespace WebApplication1.Data
         public DbSet<WorkingExperience> workingExperiences { get; set; }
 
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.ApplyConfiguration(new UserSeed());
+        }
     }
 }

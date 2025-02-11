@@ -44,9 +44,10 @@
               "RelativeDocumentMoniker": "WebApplication1\\Controller\\CursoEFController.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Controller\\CursoEFController.cs",
               "RelativeToolTip": "WebApplication1\\Controller\\CursoEFController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T22:46:41.698Z"
+              "WhenOpened": "2025-02-07T22:46:41.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,7 +59,8 @@
               "RelativeToolTip": "WebApplication1\\Models\\CursoEfContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T22:40:06.245Z"
+              "WhenOpened": "2025-02-07T22:40:06.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,7 +82,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\DataBaseFirst\\DbFirst\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T22:01:45.783Z",
               "EditorCaption": ""

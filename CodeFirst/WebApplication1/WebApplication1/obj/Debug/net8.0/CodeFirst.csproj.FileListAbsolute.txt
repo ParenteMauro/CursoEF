@@ -138,4 +138,9 @@ C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplica
 C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\obj\Debug\net8.0\CodeFirst.pdb
 C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\obj\Debug\net8.0\CodeFirst.genruntimeconfig.cache
 C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\CodeFirst.dll
+C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\obj\Debug\net8.0\CodeFirst.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\mauro\Desktop\CursoEntityFramework\CodeFirst\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

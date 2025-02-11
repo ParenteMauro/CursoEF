@@ -14,6 +14,7 @@ namespace WebApplication1.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            //builder.ApplyConfigurationsFromAssembly(); busca todas las clases que usen la interfaz de IEntityTypeConfiguration automaticamente con reflection
             builder.ApplyConfiguration(new UserSeed());
         }
     }

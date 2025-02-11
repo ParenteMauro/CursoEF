@@ -12,5 +12,7 @@ namespace WebApplication1.Data.Entities
 
         [MaxLength(15)]
         public string Password { get; set; }
+
+        public ICollection<WorkingExperience> WorkingExperiences { get; set; }
     }
 }

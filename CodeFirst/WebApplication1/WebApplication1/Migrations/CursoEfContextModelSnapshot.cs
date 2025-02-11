@@ -98,7 +98,23 @@ namespace WebApplication1.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("UserId");
+
                     b.ToTable("workingExperiences");
+                });
+
+            modelBuilder.Entity("WebApplication1.Data.Entities.WorkingExperience", b =>
+                {
+                    b.HasOne("WebApplication1.Data.Entities.User", null)
+                        .WithMany("WorkingExperiences")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("WebApplication1.Data.Entities.User", b =>
+                {
+                    b.Navigation("WorkingExperiences");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "ContainingType": "CodeFirst.Controllers.TestController",
+    "Method": "Get",
+    "RelativePath": "{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebApplication1.Data.Entities.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirst.Controllers.TestController",
+    "Method": "Test",
+    "RelativePath": "test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

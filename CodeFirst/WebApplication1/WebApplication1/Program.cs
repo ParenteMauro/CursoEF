@@ -1,3 +1,4 @@
+using CodeFirst.Controllers;
 using CodeFirst.Data;
 using CodeFirst.Data.Repositories;
 using CodeFirst.Services;
@@ -26,12 +27,13 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IWorkingExperienceRepository, WorkingExperienceRepository>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<InsertUserWithExperiencesService>();
+builder.Services.AddScoped<UpdateUserEmail>();
+builder.Services.AddScoped<DeleteUserService>();    
 builder.Services.AddControllers().AddJsonOptions(options=>
 {
     options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
  });
-
-
+builder.Services.AddControllers();
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())

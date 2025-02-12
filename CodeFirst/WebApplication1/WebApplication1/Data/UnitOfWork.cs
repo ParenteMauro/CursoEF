@@ -1,6 +1,7 @@
 ﻿using CodeFirst.Data.Repositories;
 using WebApplication1.Data;
 
+
 namespace CodeFirst.Data
 {
     public interface IUnitOfWork : IDisposable
@@ -8,6 +9,7 @@ namespace CodeFirst.Data
         public IUserRepository UserRepository { get; }
         public IWorkingExperienceRepository WorkingExperienceRepository { get; }
         Task<int> Save();
+       
 
     }
     public class UnitOfWork : IUnitOfWork

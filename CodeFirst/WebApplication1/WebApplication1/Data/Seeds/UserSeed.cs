@@ -10,9 +10,24 @@ namespace CodeFirst.Data.Seeds
         {
             builder.HasData
                (
-               new User() { Id = 1, Email = "user1@gmail.com", UserName = "user1", Password = "123" },
-               new User() { Id = 2, Email = "user2@gmail.com", UserName = "user2", Password = "123" }
+                BuildUsers()
                );
+        }
+
+        public List<User> BuildUsers()
+        {
+            List<User> users = new List<User>();
+            foreach(int index in Enumerable.Range(25,75))
+            {
+                users.Add(new User()
+                {
+                    Id = index,
+                    Email = $"user{index}@gmail.com",
+                    Password = "123",
+                    UserName = $"user{index}"
+                });
+            }
+            return users;
         }
     }
 }

@@ -5,6 +5,18 @@
     "version": "v1"
   },
   "paths": {
+    "/user": {
+      "post": {
+        "tags": [
+          "Test"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/test": {
       "post": {
         "tags": [
@@ -101,6 +113,9 @@
           "userId": {
             "type": "integer",
             "format": "int32"
+          },
+          "user": {
+            "$ref": "#/components/schemas/User"
           },
           "name": {
             "maxLength": 50,

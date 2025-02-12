@@ -40,5 +40,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "CodeFirst.Controllers.TestController",
+    "Method": "Create",
+    "RelativePath": "user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

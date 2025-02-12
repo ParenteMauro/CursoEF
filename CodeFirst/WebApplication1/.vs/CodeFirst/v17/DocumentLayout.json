@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\cursoefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\cursoefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\entities\\workingexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\entities\\workingexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\repositories\\workingexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\repositories\\workingexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\services\\insertuserwithexperiencesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\services\\insertuserwithexperiencesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\migrations\\20250210190227_seeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\migrations\\20250210190227_seeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\entities\\workingexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\entities\\workingexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\cursoefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\cursoefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +59,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "InsertUserWithExperiencesService.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Services\\InsertUserWithExperiencesService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\InsertUserWithExperiencesService.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Services\\InsertUserWithExperiencesService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\InsertUserWithExperiencesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:59:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:26:27.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkingExperienceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Repositories\\WorkingExperienceRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Repositories\\WorkingExperienceRepository.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Repositories\\WorkingExperienceRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Repositories\\WorkingExperienceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:20:06.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:46:12.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TestController.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Controllers\\TestController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwDIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T19:25:05.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "20250210190227_SeedUser.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Migrations\\20250210190227_SeedUser.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250210190227_SeedUser.cs",
@@ -63,49 +131,51 @@
               "RelativeToolTip": "WebApplication1\\Migrations\\20250210190227_SeedUser.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T19:03:05.544Z"
+              "WhenOpened": "2025-02-10T19:03:05.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwB4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:42:45.511Z"
+              "WhenOpened": "2025-02-09T02:42:45.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "CursoEfContext.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\CursoEfContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\CursoEfContext.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\CursoEfContext.cs",
               "RelativeToolTip": "WebApplication1\\Data\\CursoEfContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T02:36:11.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "WorkingExperience.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Entities\\WorkingExperience.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Entities\\WorkingExperience.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Entities\\WorkingExperience.cs",
               "RelativeToolTip": "WebApplication1\\Data\\Entities\\WorkingExperience.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T02:27:09.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Entities\\User.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Entities\\User.cs",

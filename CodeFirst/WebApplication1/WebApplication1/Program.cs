@@ -1,4 +1,8 @@
+using CodeFirst.Data;
+using CodeFirst.Data.Repositories;
+using CodeFirst.Services;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 using WebApplication1.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,7 +21,17 @@ builder.Services.AddSwaggerGen(c =>
 
 builder.Services.AddDbContext<CursoEfContext>(optionsAction: 
     options=> options.UseSqlServer(builder.Configuration.GetConnectionString("connectionDB")));
-builder.Services.AddControllers();
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IWorkingExperienceRepository, WorkingExperienceRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<InsertUserWithExperiencesService>();
+builder.Services.AddControllers().AddJsonOptions(options=>
+{
+    options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+ });
+
+
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())

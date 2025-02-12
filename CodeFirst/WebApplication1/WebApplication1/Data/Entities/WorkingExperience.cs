@@ -7,6 +7,7 @@ namespace WebApplication1.Data.Entities
 
         public int Id { get; set; }
         public int UserId { get; set; }
+        public virtual User User {  get; set; }    
 
         [MaxLength(50)]
 

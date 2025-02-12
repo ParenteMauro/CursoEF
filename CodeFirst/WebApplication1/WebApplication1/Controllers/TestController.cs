@@ -1,53 +1,56 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using CodeFirst.Data.Repositories;
+using CodeFirst.Services;
+using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Data;
 using WebApplication1.Data.Entities;
 
 namespace CodeFirst.Controllers
 {
+    [ApiController]
+
     public class TestController : Controller
     {
-        public readonly CursoEfContext _CursoEfContext;
-        public TestController(CursoEfContext CursoEfContext)
+        private readonly IUserRepository _userRepository;
+        private readonly InsertUserWithExperiencesService _insertUserWithExperiences;
+        public TestController(IUserRepository userRepository, InsertUserWithExperiencesService insertUserWithExperiencesService)
         {
-            _CursoEfContext = CursoEfContext;
+            _userRepository = userRepository;
+            _insertUserWithExperiences = insertUserWithExperiencesService;
         }
+        [HttpPost(template:"user")]
+        public async Task Create () => await _insertUserWithExperiences.Execute();
 
         [HttpPost(template: "test")]
         public async Task Test()
         {
             User user1 = new User()
             {
-                Email = "userX@gmail.com",
+                Email = "X23123@gmail.com",
                 UserName = "Test",
                 Password = "testPss",
-                
+
                 WorkingExperiences = new List<WorkingExperience>()
                 {
                     new WorkingExperience()
                     {
-                        Name = "experience1",
-                        Details = "Details1",
+                        Name = "experience4",
+                        Details = "Details4",
                         Environment = "environtment"
                     },
                     new WorkingExperience()
                     {
-                        Name = "experience2",
-                        Details = "Details2",
+                        Name = "experience9",
+                        Details = "Details9",
                         Environment = "environtment"
                     }
                 }
             };
-            await _CursoEfContext.users.AddAsync(user1);
-            await _CursoEfContext.SaveChangesAsync();
+           await _userRepository.Insert(user1);
+          
         }
+
         [HttpGet("{userId}")]
         public async Task<User?> Get(int userId)
-        {
-            var response = await _CursoEfContext.users
-                .Include(a=>a.WorkingExperiences)
-                .FirstOrDefaultAsync(u => u.Id == userId);
-            return response;
-        }
+        => await _userRepository.GetById(userId);
     }
 }

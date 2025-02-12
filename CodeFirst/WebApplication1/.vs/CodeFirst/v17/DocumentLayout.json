@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\seeds\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\seeds\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\services\\deleteuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\repositories\\updateuseremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\data\\repositories\\updateuseremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|solutionrelative:webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ACAE099-BDCC-43CE-A12A-4A854DB613AC}|WebApplication1\\CodeFirst.csproj|c:\\users\\mauro\\desktop\\cursoentityframework\\codefirst\\webapplication1\\webapplication1\\data\\repositories\\workingexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20250212043224_50UsersSeed.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Migrations\\20250212043224_50UsersSeed.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250212043224_50UsersSeed.cs",
@@ -86,25 +86,24 @@
               "RelativeToolTip": "WebApplication1\\Migrations\\20250212043224_50UsersSeed.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAgwA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T04:32:48.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T04:32:48.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserSeed.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Seeds\\UserSeed.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Seeds\\UserSeed.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Seeds\\UserSeed.cs",
               "RelativeToolTip": "WebApplication1\\Data\\Seeds\\UserSeed.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T04:25:49.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DeleteUserService.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Services\\DeleteUserService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\DeleteUserService.cs",
@@ -112,12 +111,11 @@
               "RelativeToolTip": "WebApplication1\\Services\\DeleteUserService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T04:02:08.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T04:02:08.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UpdateUserEmail.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Repositories\\UpdateUserEmail.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Repositories\\UpdateUserEmail.cs",
@@ -125,12 +123,11 @@
               "RelativeToolTip": "WebApplication1\\Data\\Repositories\\UpdateUserEmail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T03:42:06.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T03:42:06.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
@@ -155,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\UnitOfWork.cs",
@@ -163,8 +160,7 @@
               "RelativeToolTip": "WebApplication1\\Data\\UnitOfWork.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T22:26:27.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:26:27.132Z"
             },
             {
               "$type": "Document",
@@ -176,31 +172,30 @@
               "RelativeToolTip": "WebApplication1\\Data\\Repositories\\WorkingExperienceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T22:20:06.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T22:20:06.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "WebApplication1\\Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwDgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T06:46:12.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TestController.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Controllers\\TestController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T19:25:05.695Z",
               "EditorCaption": ""
@@ -219,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -227,12 +222,11 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAqwB4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:42:45.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T02:42:45.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CursoEfContext.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\CursoEfContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\CursoEfContext.cs",
@@ -240,8 +234,7 @@
               "RelativeToolTip": "WebApplication1\\Data\\CursoEfContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:36:11.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T02:36:11.763Z"
             },
             {
               "$type": "Document",
@@ -257,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\CursoEntityFramework\\CodeFirst\\WebApplication1\\WebApplication1\\Data\\Entities\\User.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Entities\\User.cs",
@@ -265,8 +258,7 @@
               "RelativeToolTip": "WebApplication1\\Data\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:26:24.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T02:26:24.832Z"
             }
           ]
         }

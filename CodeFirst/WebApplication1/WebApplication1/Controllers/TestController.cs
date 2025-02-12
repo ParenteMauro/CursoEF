@@ -1,6 +1,7 @@
 ﻿using CodeFirst.Data.Repositories;
 using CodeFirst.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebApplication1.Data;
 using WebApplication1.Data.Entities;
 
@@ -52,5 +53,14 @@ namespace CodeFirst.Controllers
         [HttpGet("{userId}")]
         public async Task<User?> Get(int userId)
         => await _userRepository.GetById(userId);
+
+        [HttpGet(template:"user-page/{pageNumber}")]
+        public async Task<List<User>> GetPage(int pageNumber, int pageSize)
+        {
+            IQueryable<User> pageInfo = _userRepository.GetPagination(pageNumber, pageSize);
+
+            var result = await pageInfo.ToListAsync(); //Ejecución de consulta
+            return result; 
+        }
     }
 }

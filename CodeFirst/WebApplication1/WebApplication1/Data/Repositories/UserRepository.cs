@@ -20,6 +20,7 @@ namespace CodeFirst.Data.Repositories
         Task<List<User>>? GetAll();
         void Update(User user);
         void Delete(User user);
+        IQueryable<User> GetPagination(int pageNumber, int pageSize);
     }
     public class UserRepository : IUserRepository
     {
@@ -33,6 +34,16 @@ namespace CodeFirst.Data.Repositories
         public async Task<List<User>>? GetAll()
             => await _CursoEfContext.users.ToListAsync();
         
+        public IQueryable<User> GetPagination(int pageNumber, int pageSize)
+        {
+            var result = _CursoEfContext.users
+                .Where(a=> a.Password.Contains("s")) // Aquí es como si escribiesemos la consulta sql gracias al IQueryable con diferentes parametros
+                .Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize);
+
+            return result;
+
+        }
 
         public async Task<User?> GetById(int id)
          => await _CursoEfContext.users
